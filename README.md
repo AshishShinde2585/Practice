@@ -1,4 +1,4 @@
 # Practice
 Practice
 Adding something for practice
-updated task3
+Comit for both task2 and taks3
