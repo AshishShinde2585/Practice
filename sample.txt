@@ -1,5 +1,0 @@
-I have created sample.txt
-This is just a sample file
-
-
-This sample file is updated using GIT_Gui from PSL desktop (ashishshinde2585)
